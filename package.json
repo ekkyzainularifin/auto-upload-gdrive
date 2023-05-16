@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "date-and-time": "^2.4.2",
+    "googleapis": "^112.0.0"
+  }
+}
